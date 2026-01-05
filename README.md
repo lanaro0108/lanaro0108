@@ -1,16 +1,31 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
 
-<!--
-**lanaro0108/lanaro0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Pedro Lanaro</h1>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/lanaro0108">GitHub</a>
+  <a href="https://www.linkedin.com/in/pedro-antonio-cruz-lanaro-786495363/">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>About me</h2>
+  <ul>
+    <li>Mobile application development student.</li>
+    <li>Focused on Dart and Flutter.</li>
+    <li>Preparing for WorldSkills Mobile Application Development.</li>
+  </ul>
+
+  <h2>Technologies & Tools</h2>
+  <div class="badges">
+    <span>Dart</span>
+    <span>Flutter</span>
+    <span>Python</span>
+    <span>HTML e CSS</span>
+    <span>Git</span>
+    <span>MySQL</span>
+  </div>
+</body>
+</html>
