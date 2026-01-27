@@ -1,4 +1,4 @@
-# Pedro Lanaro 👨‍💻
+# Pedro Lanaro
 
 [GitHub](https://github.com/lanaro0108) • 
 [LinkedIn](https://www.linkedin.com/in/pedro-antonio-cruz-lanaro-786495363/)
