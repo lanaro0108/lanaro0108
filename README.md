@@ -18,7 +18,9 @@ Atualmente busco aprimorar minhas habilidades em arquitetura de software, boas p
 ## Projetos em Destaque
 
 🔹 **[BookHub_PHP](https://github.com/lanaro0108/BookHub_PHP)** - Sistema web para gerenciamento de bibliotecas com crud básico (PHP + JS)
-🔹 **[Estoque360](https://github.com/lanaro0108/Estoque360)** - Projeto real com base em problemas identificados no mercado, foco em estrutrura e prototipagem  
+
+🔹 **[Estoque360](https://github.com/lanaro0108/Estoque360)** - Projeto real com base em problemas identificados no mercado, foco em estrutrura e prototipagem
+
 🔹 **[FinancasCasal]([https://github.com/LuanBasani/Evento-Check](https://github.com/lanaro0108/FinancasCasal))** - App de finanças básicas feito para casais (Dart + Flutter + SharedPreferences)
 
 ---
