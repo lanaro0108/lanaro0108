@@ -1,44 +1,101 @@
 # Pedro Lanaro
 
 [GitHub](https://github.com/lanaro0108) •
-[LinkedIn](https://www.linkedin.com/in/pedro-antonio-cruz-lanaro-786495363/)
+[LinkedIn](https://github.com/lanaro0108)
 
 ---
 
-## About Me
+## Sobre mim
 
-Software Development student with a focus on Backend and Mobile Development. Passionate about building scalable applications, APIs, and modern solutions using Java, PHP, JavaScript, Flutter, and PostgreSQL.
+Sou estudante do Técnico de Desenvolvimento de Sistemas do Senai Americana, com foco em Back-End e Desenvolvimento Mobile.
+
+Tenho experiência prática com Java, PHP, JavaScript, Flutter e PostgreSQL através de projetos acadêmicos e pessoais. Gosto de criar aplicações escaláveis e soluções que resolvam problemas reais.
+
+Atualmente busco aprimorar minhas habilidades em arquitetura de software, boas práticas de desenvolvimento e tecnologias modernas do mercado.
 
 ---
 
-## Technologies & Tools
+## Projetos em Destaque
 
-### Backend Development
+🔹 **[BookHub_PHP](https://github.com/lanaro0108/BookHub_PHP)** - Sistema web para gerenciamento de bibliotecas com crud básico (PHP + JS)
+🔹 **[Estoque360](https://github.com/lanaro0108/Estoque360)** - Projeto real com base em problemas identificados no mercado, foco em estrutrura e prototipagem  
+🔹 **[FinancasCasal]([https://github.com/LuanBasani/Evento-Check](https://github.com/lanaro0108/FinancasCasal))** - App de finanças básicas feito para casais (Dart + Flutter + SharedPreferences)
+
+---
+
+## 📚 Formação
+
+### Desenvolvimento de Sistemas
+
+- Lógica de Programação
+- Banco de Dados
+- Redes de Computadores
+- Sistemas Operacionais
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- Levantamento de Requisitos
+- Projetos de Software
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### Databases
+### 🗄️ Databases
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### Tools & Version Control
+### 🛠️ Tools & Version Control
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanaro0108&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaro0108&layout=compact&theme=tokyonight)
+
+---
+
+## Objetivo
+
+Conquistar oportunidades na área de desenvolvimento de software, contribuindo em projetos reais enquanto continuo evoluindo tecnicamente e profissionalmente.
+
+---
+
+## Atualmente focado em
+
+- ☕ Java
+- ⚡ JavaScript
+- 🐘 PostgreSQL
+- 🎯 PHP
+- 📱 Flutter
+- 🎨 Dart
+- 🖌️ Prototipagem de interfaces no Figma
+- 🏗️ Arquitetura de Software
+
+- GitHub: https://github.com/lanaro0108
+- LinkedIn: https://www.linkedin.com/in/pedro-antonio-cruz-lanaro-786495363/
