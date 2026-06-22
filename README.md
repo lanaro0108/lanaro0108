@@ -25,7 +25,7 @@ Atualmente busco aprimorar minhas habilidades em arquitetura de software, boas p
 
 ---
 
-## 📚 Formação
+## Formação
 
 ### Desenvolvimento de Sistemas
 
@@ -40,33 +40,33 @@ Atualmente busco aprimorar minhas habilidades em arquitetura de software, boas p
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### 🛠️ Tools & Version Control
+### Tools & Version Control
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -74,7 +74,7 @@ Atualmente busco aprimorar minhas habilidades em arquitetura de software, boas p
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanaro0108&show_icons=true&theme=tokyonight)
 
