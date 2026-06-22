@@ -7,10 +7,7 @@
 
 ## About Me
 
-- Software Development student.
-- Interested in Backend and Mobile Development.
-- Working with modern technologies and databases.
-- Preparing for WorldSkills Mobile Application Development.
+Software Development student with a focus on Backend and Mobile Development. Passionate about building scalable applications, APIs, and modern solutions using Java, PHP, JavaScript, Flutter, and PostgreSQL.
 
 ---
 
